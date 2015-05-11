@@ -14,7 +14,6 @@ layout: default
         {{ content }}
     </div>
 
-    <div id="post-tags">
         {% if post.category %}
             {% for site_category in site.data.categories %}
                 {% if site_category.slug == post.category %}
@@ -46,7 +45,6 @@ layout: default
         {% endif %}
 
         <p id="post-meta">Posted {{ category_content }}{{ tags_content }}</p>
-    </div>
 
    <div class="comments">
       {% include disqus.html disqus_identifier=page.disqus_identifier %}
