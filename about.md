@@ -13,7 +13,7 @@ and [github](https://github.com/dcmuller). A copy of my CV is available [here](/
 
 
 ### Contact me
-You can email me at: _davidmull at gmail dot com_
+You can email me at: _davidmull at gmail dot com_.
 
 
 
