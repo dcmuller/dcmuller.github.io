@@ -12,7 +12,9 @@ layout: default
 
     <div id="post-content">
         {{ content }}
+    </div>
 
+    <div id="post-tags">
         {% if post.category %}
             {% for site_category in site.data.categories %}
                 {% if site_category.slug == post.category %}
