@@ -10,8 +10,12 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    Posted on {{ page.date | date: "%e %B %Y" }}
   </div>
+
+  <div class="tags">
+    tags: {{ page.tags | array_to_sentence_string }}
+  <div>
 
   <div class="comments">
     {% include disqus.html disqus_identifier=page.disqus_identifier %}
