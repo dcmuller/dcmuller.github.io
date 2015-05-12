@@ -1,0 +1,23 @@
+- slug: cancer
+  name: Cancer
+
+- slug: epidemiology
+  name: Epidemiology
+
+- slug: methods
+  name: Methods
+
+- slug: miscellaneous
+  name: Miscellaneous
+
+- slug: public-health
+  name: Public Health
+
+- slug: R
+  name: R
+
+- slug: stata
+  name: Stata
+
+- slug: statistics
+  name: Statistics
