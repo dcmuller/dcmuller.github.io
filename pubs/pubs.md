@@ -8,7 +8,7 @@ permalink: /pubs/
 My publications can be found on <a href="http://www.ncbi.nlm.nih.gov/myncbi/browse/collection/41181986/?sort=date&direction=descending" target="_blank">pubmed</a> and <a href="https://scholar.google.co.uk/citations?user=vdNHuIsAAAAJ&hl=en" target="_blank"> google scholar</a>.   
 
 
-I provide electronic versions of my recent publications here has a professional courtesy. 
+I provide electronic versions of my recent publications here as a professional courtesy. 
 They should be used for individual, noncommercial purposes only. Copyright remains
 with the respective copyright holders, as stated within each paper. These files may
 not be reposted without permission.
