@@ -15,7 +15,7 @@ not be reposted without permission.
 
 Publications are listed in reverse chronological order.
 
-**Modifiable causes of premature death in middle-age in Western Europe: results from the EPIC cohort study**
+**Modifiable causes of premature death in middle-age in Western Europe: results from the EPIC cohort study**  
 **Muller DC**, Murphy N, Johansson M, Ferrari P, Tsilidis KK, Boutron-Ruault M-C, Clavel F, Dartois L, Li K, Kaaks R, Weikert C, Bergmann M, Boeing H, Tjønneland A, Overvad K, Redondo ML, Agudo A, Molina-Portillo E, Altzibar JM, Cirera L, Ardanaz E, Khaw K-T, Wareham NJ, Key TJ, Travis RC, Bamia C, Orfanos P, Trichopoulou A, Palli D, Pala V, Tumino R, Vineis P, Panico S, Bueno-de-Mesquita, HB, Verschuren WMM, Struijk EA, Peeters PH, Engström G, Melander O, Sund M, Weiderpass E, Skeie G, Lund E, Norat T, Gunter M, Riboli E, Brennan P. 
 *BMC Med* (2016)  *14(87)*  
 <a href="/pubs/pdf/muller_2016_bmcmed_prem_death.pdf" target="_blank">pdf</a>,
