@@ -17,7 +17,7 @@ Publications are listed in reverse chronological order.
 
 **Combined effects of smoking and HPV16 in oropharyngeal cancer**  
 Anantharaman D, **Muller DC**, Lagiou P, Ahrens W, Holcatova I, Merletti F, Kjærheim, K, Polesel J, Simonato L, Canova C, Castellsague X, Macfarlane TV, Znaor A, Thomson P, Robinson M, Conway DI, Healy CM, Tjønneland A, Westin U, Ekström J, Chang-Claude, J, Kaaks R, Overvad K, Drogan D, Hallmans G, Laurell G, Bueno-de-Mesquita HB, Peeters PH, Agudo A, Larrañaga N, Travis RC, Palli D, Barricarte A, Trichopoulou A, George S, Trichopoulos D, Quirós JR, Grioni S, Sacerdote C, Navarro C, Sánchez MJ, Tumino R, Severi G, Boutron-Ruault MC, Clavel-Chaperon F, Panico S, Weiderpass E, Lund E, Gram IG, Riboli E, Pawlita M, Waterboer T, Kreimer AR, Johansson M, Brennan P  
-*Int J Epidemiol* (2016) *dyw069* 
+*Int J Epidemiol* (2016) *dyw069*  
 <a href="/pubs/pdf/anantharaman_2016_ije_hpv_smoking_oroph.pdf" target="_blank">pdf</a>,
 <a href="http://dx.doi.org/doi:10.1093/ije/dyw069" target="_blank">doi</a>
 
